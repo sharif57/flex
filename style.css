@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    background-image: url('image/anand-thakur-y0dSeflqUWo-unsplash.jpg');
+    height: 100vh;
+    background-position: bottom center;
+    background-size: cover;
+}
+.hero h1{
+    font-size: 100px;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    word-spacing: 15px;
+    color: #fff;
+    letter-spacing: 12px;
+}
+
+.aritical{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aqua;
+    width: 80%;
+    margin: 60px auto;
+    text-align: justify;
+    padding: 60px;
+    border-width: 20px;
+    border: yellow;
+    border-style: solid;
+    
+}
+.aritical h2{
+    text-align: left;
+    padding: 10px;
+    border: 6px solid yellow;
+    
+
+}
+.aritical p{
+    margin-top: 10px;
+    font-size: larger;
+    
+}
+#cow-types h2{
+    font-size: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.cow-image div{
+    
+    
+}
+.cow-image div img{
+    width: 400px;
+    height: 300px;
+    padding: 30px 30px;
+    margin-left: 50px;
+    margin-right: auto;
+    
+
+}
+.cow-image{
+    display: flex;
+    background-color: aquamarine;
+}
+.Registration-form{
+    background-color: bisque;
+}
+.Registration-form h1{
+    font-size: 40px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 30px 0;
+}
+.Registration-form p{
+    font-size: 20px;
+    
+    margin: 15px 0;
+
+}
+.Registration-form input{
+    padding: 15px 10px;
+    font-size: 16px;
+    width: 60%;
+    border-radius: 5px;
+}
+.Registration-form form{
+    margin-left: 30px;
+    text-align: center;
+}
+.Registration-form button{
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 10px 15px;
+}
